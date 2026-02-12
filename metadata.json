@@ -1,0 +1,8 @@
+{
+  "name": "Sign Language Translation – Happy Club",
+  "description": "A professional AI-powered platform for sentence-level bidirectional sign language translation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
